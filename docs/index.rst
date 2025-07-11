@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://aclportal.com/thunderbird-login">
+
 How to Login to Thunderbird Email?
 ============================================
 
