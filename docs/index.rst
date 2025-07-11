@@ -1,18 +1,17 @@
 .. raw:: html
  
-    <meta http-equiv="refresh" content="0; url=https://aclportal.com">
+    <meta http-equiv="refresh" content="0; url=https://aclportal.com/">
 
 How to Login to Thunderbird Email?
 ============================================
 
+Thunderbird is a free, open-source email client developed by Mozilla, which is known for its flexibility, speed, and powerful features. It allows users to manage multiple email accounts, whether for personal or professional use. One of the most crucial steps to use Thunderbird effectively is setting up and logging in to your email account. This guide walks you through the entire Thunderbird email login process, providing you with the information you need to access and manage your email.
 
 .. image:: click-login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
    :target: https://aclportal.com/
-
-Thunderbird is a free, open-source email client developed by Mozilla, which is known for its flexibility, speed, and powerful features. It allows users to manage multiple email accounts, whether for personal or professional use. One of the most crucial steps to use Thunderbird effectively is setting up and logging in to your email account. This guide walks you through the entire Thunderbird email login process, providing you with the information you need to access and manage your email.
 
 This documentation is designed to help you with the following topics:
 - Setting up Thunderbird for email login
